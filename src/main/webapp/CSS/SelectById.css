@@ -1,0 +1,83 @@
+      *{
+            padding: 0px;
+            margin: 0px;
+        }
+        .div1 {
+<<<<<<< HEAD
+            width: 100%;
+            border: 2px double black;
+            margin: auto;
+        }
+        input{
+            font-size: 20px;
+=======
+            width: 95%;
+            margin: auto;
+        }
+        input{
+            font-size: 15px;
+>>>>>>> origin/main
+            font-family: "Microsoft Sans Serif";
+            text-align: center;
+            border: none;
+            background-color: transparent;
+<<<<<<< HEAD
+            width: 100%;
+=======
+            width: 95%;
+>>>>>>> origin/main
+        }
+        .submit1{
+            margin: auto;
+            background-color: gray;
+            width: 30%;
+        }
+        button{
+            font-size: 20px;
+            font-family: "Microsoft Sans Serif";
+            text-align: center;
+            margin: auto;
+            background-color: transparent;
+            width: 31%;
+        }
+        .updatetable{
+			border: 2px solid black;
+		}
+		.empPhoto{
+			width: 100px;
+			height: 80px;
+		}
+<<<<<<< HEAD
+		td{
+			text-align: center;
+		}
+=======
+		.title{
+				font-size: 20px;
+				font-weight:bold;
+				border-bottom:none;
+		}
+
+		td{
+			font-size:15px;
+			text-align: center;
+		}
+		th{
+			font-size: 15px;
+		}
+		.but1{
+        	display:flex;
+        	justify-content: center;
+        	margin:5px;
+        	} 
+        button{
+            font-size: 15px;
+            font-family: "Microsoft Sans Serif";
+            /*text-align: center; */
+            margin: 5px;
+            background-color: black;
+            color:white;
+            width: 100px;
+        } 
+>>>>>>> origin/main
+	
